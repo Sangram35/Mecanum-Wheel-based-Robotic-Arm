@@ -111,7 +111,7 @@ Gripper operation synchronized with positioning
 Sequential movement logic implemented for task execution
 
 ## 🏆 Project Demonstration
-<p align="center"> <img src="presentation.jpeg" width="700"/> </p>
+<p align="center"> <img src="Presentation.jpeg" width="700"/> </p>
 
 The project was successfully demonstrated at a technical competition, showcasing real-time control, mobility precision, and task execution capability.
 
