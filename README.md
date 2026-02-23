@@ -1,5 +1,5 @@
 # 🚀 Mecanum Wheel Based Robotic Arm
-<p align="center"> <img src="images/poster.jpeg" width="800"/> </p>
+<p align="center"> <img src="poster.jpeg" width="800"/> </p>
 
 ## 📌 Overview
 
@@ -57,7 +57,7 @@ Arduino 2 → Controls robotic arm movement and gripping mechanism
 This dual-controller architecture improves modularity, simplifies debugging, and ensures stable performance during simultaneous locomotion and manipulation.
 
 ## 🔧 Hardware Implementation
-<p align="center"> <img src="images/hardware.jpeg" width="600"/> </p>
+<p align="center"> <img src="hardware.jpeg" width="600"/> </p>
 
 Visible in the image:
 
@@ -111,7 +111,7 @@ Gripper operation synchronized with positioning
 Sequential movement logic implemented for task execution
 
 ## 🏆 Project Demonstration
-<p align="center"> <img src="images/presentation.jpeg" width="700"/> </p>
+<p align="center"> <img src="presentation.jpeg" width="700"/> </p>
 
 The project was successfully demonstrated at a technical competition, showcasing real-time control, mobility precision, and task execution capability.
 
